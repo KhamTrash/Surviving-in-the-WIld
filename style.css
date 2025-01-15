@@ -1,0 +1,133 @@
+h1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+.context {
+  color: white;
+ display: flex;
+  
+text-align: center;
+
+}
+
+.animal {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+body {
+background-color: lightblue;
+}
+
+.bird {
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  border-radius: 50px;
+ 
+ justify-content: center;
+  justify-content: flex-end;
+
+}
+
+.desert {
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  border-radius: 50px;
+  
+
+}
+
+.arc {
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;;
+  border-radius: 50px;
+}
+.bear {
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  border-radius: 50px;
+}
+
+.bird2 {
+  display:flex;
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  border-radius: 50px;
+  float: left;
+  margin-right: 20px;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+}
+
+.bird3 {
+  background-color: darkgreen;
+}
+
+.snow {
+  background-color: ghostwhite;
+}
+
+.desert2 {
+  
+  background-color: sandybrown
+}
+
+.desert3 {
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  border-radius: 50px;
+float: left;
+}
+
+
+
+.link:hover {
+  color: white;
+  font-size: 20px;
+}
+
+.link:active {
+  color: blue;
+}
+
+.wildlife {
+  width: 220px;
+  height: 200px;
+  border-style: solid;
+  border-width: thick;
+  border-color: white;
+  border-radius: 50px;
+  float: left;
+  
+}
+
+.text2 {
+  
+  font-size: 20px;
+}
