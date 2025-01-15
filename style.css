@@ -49,21 +49,14 @@ background-color: lightblue;
 }
 
 .arc {
-  width: 220px;
-  height: 200px;
+  width: 220;
+  height: 200;
   border-style: solid;
   border-width: thick;
   border-color: white;;
   border-radius: 50px;
 }
-.bear {
-  width: 220px;
-  height: 200px;
-  border-style: solid;
-  border-width: thick;
-  border-color: white;
-  border-radius: 50px;
-}
+
 
 .bird2 {
   display:flex;
